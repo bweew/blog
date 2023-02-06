@@ -6,13 +6,5 @@ date: 2023-02-05T19:18:35-05:00
 
 dinosaurs are cool.
 >also check out that theme
->its nice
 
-sickkkkkk
-
-made a change
-and the change updated.
-
----
-
-after that i cloned in on my laptop
+![cat](cat.png)
