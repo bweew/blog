@@ -7,4 +7,4 @@ date: 2023-02-05T19:18:35-05:00
 dinosaurs are cool.
 >also check out that theme
 
-![cat](cat.png)
+![cat](/img/cat.png)
