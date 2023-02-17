@@ -1,3 +1,8 @@
+---
+title: Administrative privileges 
+---
+
+
 Verse 1:
 I got the power, the rights to rule
 With my admin privileges, I'm the king of the school
