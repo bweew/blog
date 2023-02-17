@@ -1,4 +1,6 @@
-Rap about being the bash script master
+---
+Title: Bash Master
+---
 
 Listen up folks, I've got a story to tell
 About a skill that'll make your life so swell
