@@ -1,11 +1,7 @@
-rate!
+---
+Title: I Know All The Key Commands
+---
 
-
-
-anth
-Rap about knowing all the key commands in fl studio
-
-Verse 1:
 Listen up y'all, let me show you the skill
 I'm the king of keys, with a flow that's real
 In FL Studio, I'm the one to beat
