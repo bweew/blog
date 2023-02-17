@@ -1,3 +1,7 @@
+---
+Title: Yoloist
+---
+
 sketch about a serial yoloist who has a change of heart after tragedy 
 
 (Opening scene: We see a man, Dave, standing on the edge of a cliff. He is dressed in a suit and has a parachute on his back. He takes a deep breath and looks out at the view before him.)
