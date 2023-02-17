@@ -1,3 +1,6 @@
+---
+Title: Regex Sketch
+---
 Setting: A coffee shop with two friends, Dave and Alex, sitting across from each other with their laptops open.]
 
 Dave: [frustrated] Ugh, I can't seem to find the right regular expression for this search.
