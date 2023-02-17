@@ -1,6 +1,6 @@
-—-
+---
 Title: Mojibake
-—-
+---
 Mojibake, what a funky word,
 Sounds like something absurd,
 But it's a real problem, don't you know,
