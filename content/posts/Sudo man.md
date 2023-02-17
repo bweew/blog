@@ -1,5 +1,5 @@
 ---
-Title="Sudo man"
+Title: "Sudo man"
 ---
 
 Setting: An office with two coworkers, Bob and Alice, sitting at their desks. Bob is typing away on his computer while Alice is leaning back in her chair.]
