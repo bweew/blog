@@ -1,6 +1,6 @@
-—-
+---
 Title: Scammed On Amazon 
-—-
+---
 Verse 1:
 I thought I found a great deal, a handheld gaming gem
 But little did I know, it was a scam from them
