@@ -1,5 +1,5 @@
 ---
-title: Administrative privileges 
+title: Administrative Privileges 
 ---
 
 
