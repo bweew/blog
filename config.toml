@@ -4,3 +4,4 @@ title = 'bweew'
 theme = 'hello-friend'
 canonifyURLs = true
 lastModDisplay = "[your display text]"
+toc = true
