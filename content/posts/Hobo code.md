@@ -1,3 +1,7 @@
+---
+Title: Hobo Code
+---
+
 Listen up y'all, I got a story to tell
 About a code, that helped hobos survive and do well
 In the days of the Great Depression, life was tough
