@@ -1,5 +1,7 @@
 
-
+---
+Title: Giant Steps
+---
 [The sketch opens with John Coltrane standing at the front of a room, surrounded by a group of jazz musicians, all looking a bit worse for wear. Coltrane is holding a cup of coffee and looking very serious.]
 
 John Coltrane: Welcome to Giant Steps, the recovery program for jazz musicians. My name is John, and I'll be your guide through this process.
