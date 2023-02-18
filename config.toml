@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'bweew'
 theme = 'hello-friend'
 canonifyURLs = true
+lastModDisplay: = "Modified:"
