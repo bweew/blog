@@ -2,7 +2,7 @@
 title: SC Spreadsheet Rap
 ---
 
-[![Everything Is AWESOME](https://imgur.com/NQT08h5)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![making sfz using sc](https://imgur.com/NQT08h5)](https://youtu.be/StTqXEQ2l-Y?t=35s "making sfz using sc")
 
 
 
