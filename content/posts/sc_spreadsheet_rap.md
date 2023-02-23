@@ -2,9 +2,7 @@
 title: SC Spreadsheet Rap
 ---
 
-[![making soundfonts using sc](https://imgur.com/NQT08h5)](https://youtu.be/V0bV4MaGELY "How to make sfz using sc")
-
-[Imgur](https://imgur.com/NQT08h5)
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 
 
