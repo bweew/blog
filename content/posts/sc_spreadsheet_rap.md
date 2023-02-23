@@ -4,6 +4,8 @@ title: SC Spreadsheet Rap
 
 [![making soundfonts using sc](https://imgur.com/NQT08h5)](https://youtu.be/V0bV4MaGELY "How to make sfz using sc")
 
+[Imgur](https://imgur.com/NQT08h5)
+
 
 
 I'm on my computer, trying to make some sense
