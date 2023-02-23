@@ -2,7 +2,7 @@
 title: SC Spreadsheet Rap
 ---
 
-[![making sfz using sc](https://imgur.com/NQT08h5)](https://youtu.be/V0bV4MaGELY"making sfz using sc")
+[![making sfz using sc](https://imgur.com/NQT08h5)](https://youtu.be/V0bV4MaGELY" making sfz using sc")
 
 
 
