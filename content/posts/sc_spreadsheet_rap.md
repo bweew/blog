@@ -2,6 +2,10 @@
 title: SC Spreadsheet Rap
 ---
 
+[![making soundfonts using sc](https://imgur.com/NQT08h5)](https://youtu.be/V0bV4MaGELY "How to make sfz using sc")
+
+
+
 I'm on my computer, trying to make some sense
 Of all these numbers and data that's so dense
 I need a tool that can help me sort and filter
