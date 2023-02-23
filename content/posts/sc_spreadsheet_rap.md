@@ -2,8 +2,7 @@
 title: SC Spreadsheet Rap
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/NQT08h5"  ><a href="//imgur.com/a/NQT08h5">using sc to make spreadsheets</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+![alt](https://imgur.com/NQT08h5)
 
 I'm on my computer, trying to make some sense
 Of all these numbers and data that's so dense
