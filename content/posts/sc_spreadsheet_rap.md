@@ -2,8 +2,6 @@
 title: SC Spreadsheet Rap
 ---
 
-![alt](https://imgur.com/NQT08h5)
-
 I'm on my computer, trying to make some sense
 Of all these numbers and data that's so dense
 I need a tool that can help me sort and filter
