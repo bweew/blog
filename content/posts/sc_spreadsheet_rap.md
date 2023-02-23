@@ -2,8 +2,7 @@
 title: SC Spreadsheet Rap
 ---
 
-[![making sfz using sc](https://imgur.com/NQT08h5)](https://youtu.be/V0bV4MaGELY" making sfz using sc")
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/NQT08h5"  ><a href="//imgur.com/a/NQT08h5">using sc to make spreadsheets</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 I'm on my computer, trying to make some sense
